@@ -8,19 +8,18 @@ Sobre o Projeto
 
 
 # Tecnologias Utilizadas
+
 ## Back-end
-Java Spring Boot: Usado para configurar o servidor e a lógica de negócios.
-PostgreSQL: Banco de dados para armazenar informações dos pratos.
-Spring Data JPA: Facilita o acesso e a manipulação dos dados.
-Flyway: Gerencia as migrações do banco de dados para manter a estrutura atualizada.
+- **Java Spring Boot**: Usado para configurar o servidor e a lógica de negócios.
+- **PostgreSQL**: Banco de dados para armazenar informações dos pratos.
+- **Spring Data JPA**: Facilita o acesso e a manipulação dos dados.
+- **Flyway**: Gerencia as migrações do banco de dados para manter a estrutura atualizada.
+
 ## Front-end
-React: Framework utilizado para construir a interface do usuário.
-Typescript: Adiciona tipagem estática para melhorar a manutenibilidade do código.
-Axios: Biblioteca para realizar requisições HTTP ao back-end.
-React Query: Utilizado para buscar, armazenar em cache, sincronizar e atualizar o estado do servidor.
-Configuração do Projeto
-Pré-requisitos
-Certifique-se de ter instalado o Node.js e o Java JDK em seu sistema.
+- **React**: Framework utilizado para construir a interface do usuário.
+- **Typescript**: Adiciona tipagem estática para melhorar a manutenibilidade do código.
+- **Axios**: Biblioteca para realizar requisições HTTP ao back-end.
+- **React Query**: Utilizado para buscar, armazenar em cache, sincronizar e atualizar o estado do servidor.
 
 ## Configuração do Back-end
 Navegue até a pasta back-end.
