@@ -1,5 +1,5 @@
 # Cardápio
-Sobre o Projeto
+
 "Cardápio" é um projeto full stack desenvolvido com o objetivo de aprimorar meus conhecimentos em desenvolvimento de software. Este projeto consiste em um cardápio digital com várias opções de pratos, permitindo operações CRUD (Criar, Ler, Atualizar, Deletar) sobre eles.
 # Amostra do projeto
 
